@@ -4,7 +4,7 @@ Getting Started with Apps in kotlin
 
 A Simple Android/kotlin app for Greeting Someone on Diwali. 
 
-#Learnings
+#Learnings : 
 Intent
 Views
 attributes
